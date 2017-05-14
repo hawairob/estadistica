@@ -1,0 +1,10 @@
+.DS_Store
+.Rapp.history
+.Rhistory
+.RData
+.Rproj.user/
+packrat/lib*/
+~$*
+.~*
+.Rproj.user
+.pdf
